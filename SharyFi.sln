@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20771AFD-7E1A-4DAF-BFB6-0671C1BD6170}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharyFi.Server", "SharyFi.Server", "{E0747249-38BC-495D-B654-73CDB54EB377}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharyFi.Common", "SharyFi.Common", "{FAE18521-5192-4ABD-9F76-5EE16C698436}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharyFi.Cli", "SharyFi.Cli", "{01EDC77C-4D20-4ACD-9ACB-3A1C7A9D6897}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharyFi.WinUI", "SharyFi.WinUI", "{3771DDF1-7701-4CEE-A888-F143E8178A06}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A66BBE6-D014-4295-82C1-3D9EBBB261B5}
+	EndGlobalSection
+EndGlobal
