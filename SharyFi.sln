@@ -20,9 +20,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharyFi.Cli", "SharyFi.Cli"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharyFi.WinUI", "SharyFi.WinUI", "{3771DDF1-7701-4CEE-A888-F143E8178A06}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharyFi.Cli", "SharyFi.Cli\SharyFi.Cli\SharyFi.Cli.csproj", "{19E6921D-F4CB-46FC-BD73-682BE13189ED}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E6921D-F4CB-46FC-BD73-682BE13189ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E6921D-F4CB-46FC-BD73-682BE13189ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E6921D-F4CB-46FC-BD73-682BE13189ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E6921D-F4CB-46FC-BD73-682BE13189ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{19E6921D-F4CB-46FC-BD73-682BE13189ED} = {01EDC77C-4D20-4ACD-9ACB-3A1C7A9D6897}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A66BBE6-D014-4295-82C1-3D9EBBB261B5}
