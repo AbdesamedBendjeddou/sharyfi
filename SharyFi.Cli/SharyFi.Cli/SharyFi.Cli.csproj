@@ -9,4 +9,8 @@
     <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\SharyFi.Common\SharyFi.Common\SharyFi.Common.csproj" />
+  </ItemGroup>
+
 </Project>
