@@ -43,6 +43,9 @@
     <PackageReference Include="MSTest.TestAdapter" Version="3.5.0" />
     <PackageReference Include="MSTest.TestFramework" Version="3.5.0" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SharyFi.WinUI\SharyFi.WinUI.csproj" />
+  </ItemGroup>
 
   <!-- 
     Defining the "HasPackageAndPublishMenuAddedByProject" property here allows the Solution 
